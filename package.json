@@ -1,0 +1,26 @@
+{
+  "name": "myangular",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-copy": "latest",
+    "grunt-contrib-concat": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-compass": "~0.7.2",
+    "grunt-contrib-coffee": "latest",
+    "grunt-contrib-jshint": "latest",
+    "grunt-contrib-connect": "~0.7.1",
+    "grunt-contrib-clean": "latest",
+    "grunt-contrib-imagemin": "latest",
+    "grunt-contrib-jade": "latest",
+    "grunt-usemin": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-open": "latest",
+    "matchdep": "latest",
+    "connect-livereload": "~0.3.2"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
